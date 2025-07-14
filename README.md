@@ -16,7 +16,7 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 |Questão | Resolução |
 | -- | -- |
 | [32](https://leetcode.com/problems/longest-valid-parentheses/) |  [Resolução](32.py) |
-|  |  [Resolução]()|
+| [22](https://leetcode.com/problems/generate-parentheses/) |  [Resolução](22.py)|
 
 # Respostas Mateus
 
