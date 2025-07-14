@@ -22,7 +22,7 @@ Iremos responder questões sobre grafos no Leet code, cada membro da dupla fará
 
 |Questão | Resolução |
 | -- | -- |
-|  |  [Resolução]()|
+| [5](https://leetcode.com/problems/longest-palindromic-substring/description/) |  [Resolução](5.py)|
 | [115](https://leetcode.com/problems/distinct-subsequences/description/) |  [Resolução](115.py)|
 
 ## Instalação 
